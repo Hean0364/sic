@@ -1,0 +1,5 @@
+{
+  "name": "Accounting Transaction Logger",
+  "description": "A web application to record accounting transactions (debits and credits) based on a predefined chart of accounts. It allows users to input details like date, description, amount, and apply VAT, then displays the entries in a clear, organized list.",
+  "requestFramePermissions": []
+}
